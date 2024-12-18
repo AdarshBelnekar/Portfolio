@@ -1,0 +1,80 @@
+[
+  
+  {
+    "name": "Spotify Clone",
+    "desc": " Spotify clone built using Vite and React.Show the number of songs  and play it",
+    "image": "spotify",
+    "category": "mern",
+    "links": {
+      "view": "https://spotify-clone-sable-eight.vercel.app/",
+      "code": "https://github.com/AdarshBelnekar/Spotify_Clone.git"
+    }
+  },
+  {
+    "name": "Food Delivery Website",
+    "desc": "Full-Stack Food Delivery  with Admin Dashboard and Paytm Payment Gateway.",
+    "image": "foodDelv",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AdarshBelnekar/Food-Delivery.git",
+      "code": "https://github.com/AdarshBelnekar/Food-Delivery.git"
+    }
+  },
+
+  
+  {
+    "name": "Imagify",
+    "desc": "The Text to Image Generator Ai.To visulaize the image and put into the generate image and see the magic.",
+    "image": "imagify",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AdarshBelnekar/Text_To_Image_AI.git",
+      "code": "https://github.com/AdarshBelnekar/Text_To_Image_AI.git"
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "Basic Html,CSS project into the amazon clone website.",
+    "image": "amazonclone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://amazon-clone-0909.netlify.app/",
+      "code": "https://github.com/AdarshBelnekar/Amazon_Clone.git"
+    }
+  },
+  {
+    "name": "To-Do-List",
+      "desc": "Create the helpful project as to-do-list into the reactjs.",
+      "image": "todolist",
+      "category": "basicweb",
+      "links": {
+        "view": "https://to-do-list-adarshbelnekar.netlify.app/",
+        "code": "https://github.com/AdarshBelnekar/ReactJs.git"
+      }
+   },
+   {
+    "name": "Plant-Rx",
+      "desc": "The Machine learning project to identifaction of plant.Give the information of uses.",
+      "image": "plant-rx",
+      "category": "lamp",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+   },
+ 
+
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/AdarshBelnekar/AdarshBelnekar"
+    }
+  }
+  
+
+]
